@@ -20,7 +20,3 @@
 - **プログラミング**: C#
 - **ハードウェア・設計** Jw_cad, KiCad, FreeCAD
 - **その他**: GitHub, YMM4
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazimeyou&show_icons=true&bg_color=151515&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=333333&hide_border=true&v=1" alt="GitHub Stats" />
-</p>
