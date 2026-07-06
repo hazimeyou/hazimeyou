@@ -10,8 +10,6 @@
 |YMM4プラグイン|録音プラグイン|[YMM-REC-Plugin](https://github.com/hazimeyou/YMM-REC-Plugin)|0.3.0|サポート終了|![DL](https://img.shields.io/github/downloads/hazimeyou/YMM-REC-Plugin/latest/total?color=151515&style=flat-square)|
 |YMM4プラグイン,YMM4プラグイン向けライブラリ|YmmpxLib|[YmmpxLib](https://github.com/hazimeyou/YmmpxLib)|1.0.0|開発継続中|![DL](https://img.shields.io/github/downloads/hazimeyou/YMMKeyboard/latest/total?color=151515&style=flat-square)|
 |YMM4プラグイン,自作キーボード|YMMキーボード|[YMMKeyboard](https://github.com/hazimeyou/YMMKeyboard)|0.1.0|開発継続中|![DL](https://img.shields.io/github/downloads/hazimeyou/YmmpxLib/latest/total?color=151515&style=flat-square)|
-|コンソールアプリ|オートコンソールv3|[AutoConsoleV3](https://github.com/hazimeyou/AutoConsoleV3)|リリース未公開|開発継続中|-|
-|CsACプラグイン|世界を束ねるマインクラフトACプラグイン|[SekaiMCSharpPlugin](https://github.com/hazimeyou/SekaiMCSharpPlugin)|未公開|開発完了|-|
 
 ## ⚡ 趣味・関心 (Fun Facts & Hobbies)
 - マインクラフト（統合版・Java版を連携したサーバー構築や新企画の準備など！）
