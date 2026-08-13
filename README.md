@@ -7,7 +7,7 @@
 |-|-|-|-|-|-|
 |YMM4プラグイン|同梱プラグイン|[YMMResourcePackager](https://github.com/hazimeyou/YMMResourcePackager)|1.0.0|開発一時停止|![DL](https://img.shields.io/github/downloads/hazimeyou/YMMResourcePackager/latest/total?color=151515&style=flat-square)|
 |YMM4プラグイン|プロジェクトマネージャー|[YMMProjectManager](https://github.com/hazimeyou/YMMProjectManager)|0.3.0|開発継続中|![DL](https://img.shields.io/github/downloads/hazimeyou/YMMProjectManager/latest/total?color=151515&style=flat-square)|
-|YMM4プラグイン|追加セリフ入力欄プラグイン|[YMMLineBarPlugin](https://github.com/hazimeyou/YMMLineBarPlugin)|0..0|開発継続中|![DL](https://img.shields.io/github/downloads/hazimeyou/YMMLineBarPlugin/latest/total?color=151515&style=flat-square)|
+|YMM4プラグイン|追加セリフ入力欄プラグイン|[YMMLineBarPlugin](https://github.com/hazimeyou/YMMLineBarPlugin)|0..0|サポート終了|![DL](https://img.shields.io/github/downloads/hazimeyou/YMMLineBarPlugin/latest/total?color=151515&style=flat-square)|
 |YMM4プラグイン|録音プラグイン|[YMM-REC-Plugin](https://github.com/hazimeyou/YMM-REC-Plugin)|0.3.0|サポート終了|![DL](https://img.shields.io/github/downloads/hazimeyou/YMM-REC-Plugin/latest/total?color=151515&style=flat-square)|
 |YMM4プラグイン,YMM4プラグイン向けライブラリ|YmmpxLib|[YmmpxLib](https://github.com/hazimeyou/YmmpxLib)|1.0.0|開発一時停止|![DL](https://img.shields.io/github/downloads/hazimeyou/YMMKeyboard/latest/total?color=151515&style=flat-square)|
 |YMM4プラグイン,自作キーボード|YMMキーボード|[YMMKeyboard](https://github.com/hazimeyou/YMMKeyboard)|0.1.0|開発継続中|![DL](https://img.shields.io/github/downloads/hazimeyou/YmmpxLib/latest/total?color=151515&style=flat-square)|
